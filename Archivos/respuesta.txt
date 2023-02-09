@@ -1,0 +1,1 @@
+Hubo un problema a la hora de subir el primer commit por tema de autor. Además, no detectó a la carpeta como un cambio cuando esta estaba vacía.
